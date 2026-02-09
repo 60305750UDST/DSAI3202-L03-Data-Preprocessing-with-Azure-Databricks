@@ -123,7 +123,7 @@ This mirrors real-world production data pipelines and supports manual or schedul
 ## Screenshots
 
 ![Running Job](screenshots/01_running_job.png)
-![Running Job](screenshots/02_scheduled_trigger.png)
+![Scheduled Trigger](screenshots/02_scheduled_trigger.png)
 
 ---
 
